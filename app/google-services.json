@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "842341691997",
+    "firebase_url": "https://asset-detection.firebaseio.com",
+    "project_id": "asset-detection",
+    "storage_bucket": "asset-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842341691997:android:d7a2184e0470a0e5cd53b4",
+        "android_client_info": {
+          "package_name": "com.example.asset_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842341691997-ht7lsq70nrfo63baslm41bjbo1krdm9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73xUs5_kG-TNqVj4XotXBwr2Uj40X8iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842341691997-ht7lsq70nrfo63baslm41bjbo1krdm9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
